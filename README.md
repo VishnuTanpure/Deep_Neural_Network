@@ -28,6 +28,9 @@ In this project, we create a simple neural network with multiple layers and demo
 ### 3. **Gradient Descent**
    Once the gradients are computed, we use **gradient descent** to update the weights and biases by subtracting a fraction (learning rate) of the gradients from them. This process is repeated iteratively to improve the model's performance.
 
+### 4. Download the dataset: 
+You can get the dataset for this project from Kaggle by visiting the following link:
+https://www.kaggle.com/competitions/digit-recognizer/data
 
 ## 🔍 Model Evaluation
 
